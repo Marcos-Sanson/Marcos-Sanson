@@ -1,8 +1,10 @@
 # Welcome to My GitHub!
 
-I am a computer science student at [Grand Valley State University](https://www.gvsu.edu) and an undergraduate researcher. My current research focuses on machine learning (ML) and evolutionary computation (EC).
+I am a computer science student at [Grand Valley State University](https://www.gvsu.edu) and an undergraduate researcher. 
+My current research focuses on machine learning (ML) and evolutionary computation (EC).
 
-I am passionate about learning, applying new technologies, and solving complex problems. I have completed projects and worked across the United States and internationally, including in Spain. I previously studied abroad at [Universidad Carlos III de Madrid (UC3M)](https://www.uc3m.es). 
+I am passionate about learning, applying new technologies, and solving complex problems. 
+I have completed projects and worked across the United States and internationally, including in Spain. I previously studied abroad at [Universidad Carlos III de Madrid (UC3M)](https://www.uc3m.es). 
 
 ---
 
@@ -30,6 +32,7 @@ I am passionate about learning, applying new technologies, and solving complex p
 ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white&style=flat-square)
 ![IBM Rational DOORS](https://img.shields.io/badge/-DOORS-333333?style=flat-square)
 ![Doxygen](https://img.shields.io/badge/-Doxygen-0040FF?style=flat-square)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-00599C?logo=jupyter&logoColor=white&style=flat-square)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
 
 Thanks for visiting my profile!
